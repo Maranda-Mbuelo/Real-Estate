@@ -39,11 +39,11 @@ const Footer = () => {
           <a href="https://www.sipc.org/" target="_blank" rel="noopener noreferrer">
             SIPC
           </a>
-          . Pillar Markets Inc. and Finalis Securities LLC are separate, unaffiliated entities.
+          . AdrenalineWeb Solutions. and Finalis Securities LLC are separate, unaffiliated entities.
         </p>
       </div>
       <footer>
-        <p>Copyright &copy; {new Date().getFullYear()} Pillar Markets Inc.</p>
+        <p>Copyright &copy; {new Date().getFullYear()} AdrenalineWeb Solutions</p>
         <Link href="/sponsor">Sponsors</Link>
         <Link href="/career">Careers</Link>
         <Link href="/terms-of-service">Terms of Service</Link>

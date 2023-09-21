@@ -7,7 +7,7 @@ import styles from './About.module.scss';
 const people: PersonType[] = [
   {
     id: 1,
-    name: 'Anthony Dominguez',
+    name: 'Mbuelo Maranda',
     avatar: '/people/1.png',
     role: 'CHIEF EXECUTIVE OFFICER',
     summary:
@@ -17,9 +17,9 @@ const people: PersonType[] = [
 
   {
     id: 2,
-    name: 'Anthony Dominguez',
+    name: 'Marvin Maranda',
     avatar: '/people/1.png',
-    role: 'CHIEF INVESTMENT OFFICER',
+    role: 'COO',
     summary:
       'Institutional allocator (Purdue University endowment, INPRS), real estate private equity (Strategic Capital, Lehman Brothers), IU Kelley ',
 
@@ -30,7 +30,7 @@ const people: PersonType[] = [
     id: 3,
     name: 'Anthony Dominguez',
     avatar: '/people/1.png',
-    role: 'CHIEF OPERATING OFFICER',
+    role: 'Human Resources',
     summary:
       'Startup executive (Second Measure), Securities Division (Goldman Sachs), Stanford GSB & Cornell Dyson School of Business ',
 

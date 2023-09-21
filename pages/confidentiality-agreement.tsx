@@ -15,7 +15,7 @@ const ConfidentialityAgreement = () => {
       <div
         className="padding-wrapper policies"
         dangerouslySetInnerHTML={{ __html: confidentialityMarkup }}></div>
-    </MainLayout>
+    </MainLayout> 
   );
 };
 
